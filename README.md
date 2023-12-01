@@ -31,6 +31,7 @@ At least three screenshots of the best-looking parts of a previous project, like
 
 At least three screenshots each, of two other projects you have worked on. Salmon Cookies? Odd Duck?
 <img width="1512" alt="Screenshot 2023-11-30 at 5 23 06 PM" src="https://github.com/ariley215/portfolio-prep/assets/147453680/18ae2196-8d2e-45f4-8b46-67c6e6874924">
-<img width="1512" alt="Screenshot 2023-11-30 at 5 26 14 PM" src="https://github.com/ariley215/portfolio-prep/assets/147453680/19d8a081-8b46-4bcd-b445-69e915cb2a2b">
+<img width="1512" alt="Screenshot 2023-11-30 at 5 28 19 PM" src="https://github.com/ariley215/portfolio-prep/assets/147453680/a5e06093-fca1-4a39-9546-2b3082dee72d">
+
 
 source: chatGPT
